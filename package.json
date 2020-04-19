@@ -1,0 +1,24 @@
+{
+  "name": "Calendar-TailwindCSS",
+  "version": "1.0.0",
+  "description": "This is a interactive calendar where I use TailwindCSS and Javascript",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betovef/Calendar-TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betovef/Calendar-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/Betovef/Calendar-TailwindCSS#readme",
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
